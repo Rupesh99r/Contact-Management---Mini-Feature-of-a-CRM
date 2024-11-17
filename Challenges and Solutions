@@ -1,0 +1,23 @@
+1. Challenge: Form Validation
+
+Issue: Ensuring all fields are filled correctly (e.g., valid email format).
+
+Solution: Implemented frontend validation using React and backend validation using Mongoose.
+
+2. Challenge: Handling Large Contact Lists
+
+Issue: Managing performance and usability for large datasets.
+
+Solution: Added pagination and sorting features using MUI Table.
+
+3. Challenge: Consistent UI
+
+Issue: Maintaining a clean and user-friendly interface.
+
+Solution: Used Material-UI (MUI) components for a consistent design and responsive layout.
+
+4. Challenge: Error Handling in API
+
+Issue: Ensuring meaningful error messages for API failures.
+
+Solution: Implemented robust error handling in Express for invalid input and duplicate entries.
