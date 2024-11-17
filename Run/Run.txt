@@ -1,0 +1,9 @@
+1.Start MongoDB (local or cloud).
+
+2.Start Backend:
+    node server.js
+
+3.Start Frontend:
+    npm start
+
+4.Access the app at http://localhost:3000.
