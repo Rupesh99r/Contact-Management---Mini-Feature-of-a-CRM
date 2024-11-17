@@ -1,0 +1,5 @@
+Setup MongoDB:
+
+1.Install MongoDB locally or use a cloud-based solution like MongoDB Atlas.
+2.Create a database named contacts.
+3.No additional setup is required as Mongoose handles schema and collections.
