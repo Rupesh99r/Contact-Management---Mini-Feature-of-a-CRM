@@ -20,8 +20,8 @@ Delete Contact: Deletes a selected contact.
 
 1. **Clone the Repository**
 
-git clone https://github.com/your-username/contact-management-system.git
-
+git clone [https://github.com/your-username/contact-management-system.git
+](https://github.com/Rupesh99r/Contact-Management---Mini-Feature-of-a-CRM.git)
 cd contact-management-system
 
 2. **Frontend Setup:**
